@@ -1,0 +1,3 @@
+CS0007 CHS 2013-2014
+
+This project is an introduction to creating classes and mutating class data
