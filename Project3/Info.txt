@@ -1,3 +1,0 @@
-CS0007 CHS 2013-2014
-
-This project utilized incorporation of image and sound files into Java GUI
