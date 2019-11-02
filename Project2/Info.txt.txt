@@ -1,3 +1,0 @@
-CS0007 CHS 2013-2014
-
-This project is a unit converter utilizing Java GUI and listeners
